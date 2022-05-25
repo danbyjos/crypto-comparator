@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/crypto-comparator/static/css/main.1096bb5a.css",
+    "main.js": "/crypto-comparator/static/js/main.fb5ea65b.js",
+    "static/js/787.5b99f9ed.chunk.js": "/crypto-comparator/static/js/787.5b99f9ed.chunk.js",
+    "static/media/crypto.jpg": "/crypto-comparator/static/media/crypto.b66bcd46c8fe8d969dcc.jpg",
+    "index.html": "/crypto-comparator/index.html",
+    "main.1096bb5a.css.map": "/crypto-comparator/static/css/main.1096bb5a.css.map",
+    "main.fb5ea65b.js.map": "/crypto-comparator/static/js/main.fb5ea65b.js.map",
+    "787.5b99f9ed.chunk.js.map": "/crypto-comparator/static/js/787.5b99f9ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1096bb5a.css",
+    "static/js/main.fb5ea65b.js"
+  ]
+}
