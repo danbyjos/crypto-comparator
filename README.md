@@ -13,6 +13,7 @@ Custom Styling CSS file: StylingFile.css
 
 ## APIs
 Utilized for table: https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd
+
 Utilized for details: https://api.lunarcrush.com/v2?data=assets&key={API_KEY_HERE}&symbol=BTC
 
 ## Available Scripts
