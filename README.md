@@ -1,5 +1,5 @@
 ## About this Project
-This is a crypto comparator which utilizes two crypto APIs to retrieve the data for crypto assets and compare them. First crypto API is used to display data in react table with images and corresponding current crypto data. Second API is used to retrieve more in-depth data and compare selected crypto assets. Statistics are displayed on the final page along with graphs and recommendation which asset is the best choice for investment.
+This is a crypto comparator app (desktop version) which utilizes two crypto APIs to retrieve the data for crypto assets and compare them. First crypto API is used to display data in react table with images and corresponding current crypto data. Second API is used to retrieve more in-depth data and compare selected crypto assets. Statistics are displayed on the final page along with graphs and recommendation which asset is the best choice for investment.
 
 ## Libraries utilized in this project
 •	axios
